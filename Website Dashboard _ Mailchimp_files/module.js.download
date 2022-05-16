@@ -1,0 +1,2 @@
+var image = document.createElement("img");
+image.src = "/images/js-module.gif";
